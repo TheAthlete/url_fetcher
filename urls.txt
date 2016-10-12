@@ -1,0 +1,8 @@
+http://blogs.perl.org
+http://www.apress.com
+http://google.com
+http://microsoft.com
+http://yahoo.com
+http://digg.com
+http://facebook.com
+http://myspace.com
